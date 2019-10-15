@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: rgb(161, 240, 240);
+}
+
+.heading {
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.subheading {
+  font-weight: bolder;
+  font-size: large;
+}
+
+.body {
+  text-indent: 50px;
+  width: 400px;
+  margin: 0 auto;
+  
+}
+
+
+.image-container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.image-container img {
+  width: 100%;
+}
